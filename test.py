@@ -1,5 +1,3 @@
-test = 1 + 1
-print(test)
-
-print (test)
+foo = 'mike trout'.capitalize()
+print(foo)
 
